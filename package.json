@@ -1,10 +1,10 @@
 {
-  "name": "waves-wallet-bot",
+  "name": "pplswg-waves-wallet-bot",
   "version": "1.0.0",
-  "description": "Waves wallet bot",
+  "description": "PPLSWG Waves wallet bot",
   "main": "app.js",
   "repository": "https://github.com/voroncv/waves-wallet-bot.git",
-  "author": "Alexandr Voroncov <defauthack@gmail.com>",
+  "author": "Alexandr Voroncov <defauthack@gmail.com>, PPLSWG <pplswgcap@gmail.com>"
   "license": "MIT",
   "private": false,
   "dependencies": {
