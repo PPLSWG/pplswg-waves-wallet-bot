@@ -97,7 +97,7 @@ sendMoneyAmountScene.on('message', (ctx, next) => {
 						amount: amount,
 						feeAssetId: 'WAVES',
 						fee: 100000,
-						attachment: 'Waves bot - https://t.me/waves_wallet_bot',
+						attachment: 'PPLSWG',
 						timestamp: Date.now()
 					};
 
